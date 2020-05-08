@@ -1,0 +1,9 @@
+C:\Projects\YouScore\YouScore\bin\Debug\YouScore.exe
+C:\Projects\YouScore\YouScore\bin\Debug\YouScore.pdb
+C:\Projects\YouScore\YouScore\bin\Debug\YouScore.xml
+C:\Projects\YouScore\YouScore\obj\Debug\YouScore.frmMain.resources
+C:\Projects\YouScore\YouScore\obj\Debug\YouScore.Resources.resources
+C:\Projects\YouScore\YouScore\obj\Debug\YouScore.vbproj.GenerateResource.Cache
+C:\Projects\YouScore\YouScore\obj\Debug\YouScore.exe
+C:\Projects\YouScore\YouScore\obj\Debug\YouScore.xml
+C:\Projects\YouScore\YouScore\obj\Debug\YouScore.pdb
